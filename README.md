@@ -129,7 +129,7 @@ Key analytical capabilities added:
 * Sales & Profit trends
 * Regional performance overview
 
-[Screenshot 2026-01-07 230744.png](https://github.com/pinkanparida/NOVAGEAR-Retail-Case-Study-Power-BI/blob/main/Screenshot%202026-01-07%20230744.png)
+![Executive Overview](Screenshots/Executive_Overview.png)
 
 ---
 
