@@ -141,7 +141,7 @@ Key analytical capabilities added:
 * Key Influencers visual
 * Top-performing segments and regions
 
-📸 *(Screenshot included in repository)*
+![Executive Overview](Screenshots/Product_Performance.png)
 
 ---
 
