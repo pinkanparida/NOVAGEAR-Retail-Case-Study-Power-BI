@@ -153,7 +153,7 @@ Key analytical capabilities added:
 * Segment-level behavior
 * Drill-down analysis
 
-📸 *(Screenshot included in repository)*
+![Executive Overview](Screenshots/Customer_Insights.png)
 
 ---
 
@@ -182,7 +182,7 @@ Key analytical capabilities added:
 * Bookmarks & navigation
 * Period-based retention logic
 
-📸 *(Screenshot included in repository)*
+![Executive Overview](Screenshots/Retention_Behaviour.png)
 
 ---
 
