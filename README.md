@@ -129,7 +129,7 @@ Key analytical capabilities added:
 * Sales & Profit trends
 * Regional performance overview
 
-📸 *(Screenshot included in repository)*
+Screenshot 2026-01-07 230744.png
 
 ---
 
